@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Math Game</string>
+    <string name="addition">Addition</string>
+    <string name="substraction">Substraction</string>
+    <string name="multiplication">Multiplication</string>
+    <string name="congratulations_your_answer_is_correct">Congratulations Your Answer is correct</string>
+    <string name="sorry_your_answer_is_wrong">Sorry,Your Answer is Wrong</string>
+    <string name="sorry_your_time_is_up">Sorry Your time is Up</string>
+</resources>
